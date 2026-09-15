@@ -1,0 +1,4 @@
+*.log
+!tr.log
+*.txt
+!sos.txt
